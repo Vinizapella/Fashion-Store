@@ -49,6 +49,11 @@ async function getFeaturedProducts() {
 
 }
 
+
+
+
+
+
 function toggleTheme(){
         const html = document.documentElement;
         const currentTheme = html.getAttribute('data-theme');
